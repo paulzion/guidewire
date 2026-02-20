@@ -1,10 +1,3 @@
-package com.Employee;
+import java.io.serializable;
 
-public class SerliAndDe {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
-}
+public class Emp implements Seria
